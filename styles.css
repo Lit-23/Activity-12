@@ -1,0 +1,5 @@
+.task-complete {
+  text-decoration: line-through;
+  font-weight: 500;
+  color: 	#1ea12d;
+}
